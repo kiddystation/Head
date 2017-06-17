@@ -1,2 +1,2 @@
 # Head
-Hi there my name is kiddystation and i am a new programmer. 
+Hi there! My name is kiddystation and i am a new programmer. 
